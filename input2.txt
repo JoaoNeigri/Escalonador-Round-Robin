@@ -1,0 +1,4 @@
+Processo A B C D
+Tempo 8 5 6 7
+Chegada 0 4 9 14
+Prioridade 0 0 0 0
